@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrashidPal_LoginPage/static/css/main.d6946d63.css",
+    "main.js": "/PrashidPal_LoginPage/static/js/main.cc88ae90.js",
+    "index.html": "/PrashidPal_LoginPage/index.html",
+    "main.d6946d63.css.map": "/PrashidPal_LoginPage/static/css/main.d6946d63.css.map",
+    "main.cc88ae90.js.map": "/PrashidPal_LoginPage/static/js/main.cc88ae90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6946d63.css",
+    "static/js/main.cc88ae90.js"
+  ]
+}
